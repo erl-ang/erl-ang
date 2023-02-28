@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi!
+
+i swear i have more contributions than this... they're just all in private repos because i have to be a good citizen and abide by academic integrity
+
+[![erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erl-ang)](https://github.com/erl-ang/github-readme-stats)
 
 <!--
 **erl-ang/erl-ang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
