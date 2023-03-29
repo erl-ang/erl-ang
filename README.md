@@ -1,4 +1,4 @@
-### hi!
+### hi 🤠
 
 [![erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erl-ang)](https://github.com/erl-ang/github-readme-stats)
 
